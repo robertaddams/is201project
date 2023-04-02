@@ -1,0 +1,68 @@
+body{
+    background-color: #4b60d9 !important;
+    color: #ffffff!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif!important;
+}
+
+.common{
+    /* background-color: #cccccc; */
+    position: absolute!important;
+}
+
+.header{
+    top: 5px!important;
+    left: 5px!important;
+    right: 5px!important;
+    height: 76px!important;
+    z-index: 2!important;
+    border-bottom: solid 1px #555555!important;
+}
+
+h1{
+    text-align: center!important;
+}
+
+.subheader{
+    float: right!important;
+}
+
+.bold{
+    font-weight: bold!important;
+}
+
+.housepicture{
+    position: relative!important;
+    left: 1500px!important;
+    height: 400px!important;
+
+}
+
+iframe{
+    position: relative!important;
+    left: 152px!important;
+}
+
+.robertpicture{
+    position: relative!important;
+    left: 145px!important;
+    height: 400px!important;
+}
+
+.divmedia{
+    color: black!important;
+    position: relative!important;
+    bottom: -50px!important;
+    border: 5px outset rgb(203, 12, 12)!important;
+    background-color: aliceblue!important;
+    text-align: center!important;
+}
+
+.tableauPlaceholder{
+    position: relative!important;
+    left: 25px!important;
+    top: 70px!important;
+}
+
+.linkcolor{
+    color: orange!important;
+}
